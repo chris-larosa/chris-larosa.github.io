@@ -1,3 +1,3 @@
-# Sample heading
+# Hi! My name is Chris LaRosa
 
-Lorem ipsum
+I am a computer science major with a focus on cybersecurity.
