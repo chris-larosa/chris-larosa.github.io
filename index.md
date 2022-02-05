@@ -2,7 +2,7 @@
 
 I am a highly motivated computer science major with a focus on cybersecurity.
 
-Over the years I have accumulated experience in the following languages:
+Over the years I have accumulated experience in the following languages and platforms:
 
 - Full-stack web development (both WAMP and LAMP stack)
 - JavaScript (including ES6)
