@@ -1,5 +1,6 @@
 title: Chris LaRosa
-description: Hi!
-show_downloads: false
+description: Software developer with a focus on cybersecurity
+github:
+  is_project_page: false
 google_analytics:
 theme: jekyll-theme-hacker
