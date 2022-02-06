@@ -5,4 +5,4 @@ github:
   is_project_page: false
 google_analytics:
 #theme: jekyll-theme-hacker
-theme: null
+theme: jekyll-theme-hacker
