@@ -1,11 +1,13 @@
 # Hi! My name is Chris LaRosa
 
-I am a highly motivated computer science major with a focus on cybersecurity.
+I am a highly motivated computer science major with a focus on cybersecurity, graduating in May of 2022.
+
+## Skills
 
 Over the years I have accumulated experience in the following languages and platforms:
 
 - Full-stack web development (both WAMP and LAMP stack)
-- JavaScript (including ES6)
+- JavaScript (including ES6/7)
 - PHP
 - Java
 - Python
@@ -21,3 +23,15 @@ Over the years I have accumulated experience in the following languages and plat
 - Flutter
 - Android SDK
 - Windows Powershell
+
+## Projects
+
+I've amassed over a hundred both personal and academic projects because building stuff is fun!
+
+Here's a showcase of a few of them to give you an idea of what I do:
+
+## Contact
+
+Feel free to reach out! Here's my email:
+
+> chris larosa *the number four* at gmail
