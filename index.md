@@ -35,3 +35,5 @@ Here's a showcase of a few of them to give you an idea of what I do:
 Feel free to reach out! Here's my email:
 
 > chris larosa *the number four* at gmail
+
+Also check out my [LinkedIn page](https://linkedin.com/in/chris-larosa-8a943b231)
