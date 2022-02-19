@@ -42,6 +42,10 @@ Here's a showcase of just a few of them to give you an idea of what I do:
 
 ![cad](./media/cad.jpg)
 
+### ADS-B Aircraft Tracking Apparatus using a Pi4, RTL-SDR, homebuilt pan-tilt assembly, and servo motors
+
+![aircraft-tracker](./media/aircraft-tracker.jpg)
+
 ## Contact
 
 Feel free to reach out! Here's my email:
