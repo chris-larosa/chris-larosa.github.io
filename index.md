@@ -1,6 +1,6 @@
 # Hi! My name is Chris LaRosa
 
-I am a highly motivated computer science major with a focus on cybersecurity, graduating in May of 2022.
+I am a highly motivated computer science major with a focus on cybersecurity, minoring in psychology, and graduating in May of 2022.
 
 ## Skills
 
