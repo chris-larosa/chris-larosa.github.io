@@ -28,7 +28,7 @@ Over the years I have accumulated experience in the following languages and plat
 
 I've amassed over a hundred both personal and academic projects because building stuff is fun!
 
-Here's a showcase of a few of them to give you an idea of what I do:
+Here's a showcase of just a few of them to give you an idea of what I do:
 
 ### Full-stack development of business website with newsletter from scratch:
 
