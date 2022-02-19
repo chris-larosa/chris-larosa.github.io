@@ -30,7 +30,7 @@ I've amassed over a hundred both personal and academic projects because building
 
 Here's a showcase of a few of them to give you an idea of what I do:
 
-Full-stack development of business website with newsletter from scratch:
+### Full-stack development of business website with newsletter from scratch:
 
 ![kaa-website](./media/kaa-website.jpg)
 
