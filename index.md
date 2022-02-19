@@ -38,6 +38,10 @@ Here's a showcase of just a few of them to give you an idea of what I do:
 
 ![hsi](./media/hsi.gif)
 
+### CAD design of 3D printed pulley for use in Capstone Project created with FreeCAD:
+
+![cad](./media/cad.jpg)
+
 ## Contact
 
 Feel free to reach out! Here's my email:
