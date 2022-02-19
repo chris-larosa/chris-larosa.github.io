@@ -34,6 +34,10 @@ Here's a showcase of just a few of them to give you an idea of what I do:
 
 ![kaa-website](./media/kaa-website.jpg)
 
+### Virtual Horizontal Situation Indicator (HSI) written in HTML5 Canvas from scratch:
+
+![hsi](./media/hsi.gif)
+
 ## Contact
 
 Feel free to reach out! Here's my email:
