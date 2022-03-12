@@ -27,7 +27,7 @@ Over the years I have accumulated experience in the following languages and plat
 I've also worked with the following cybersecurity tools (non-inclusive):
 
 - Autopsy, EnCase, FTK, Cellebrite Forensics tools
-- Wireshark, Nmap, Ettercap-ng Hacking tools
+- Wireshark, Nmap, Ettercap-ng, Airodump-ng Hacking tools
 
 ## Projects
 
