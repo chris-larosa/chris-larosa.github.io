@@ -1,6 +1,6 @@
 # Hi! My name is Chris LaRosa
 
-I am a highly motivated computer science major with a focus on cybersecurity, minoring in psychology, and graduating in May of 2022.
+I am a computer science major at DeSales University with a focus on cybersecurity, minoring in psychology, and graduating in May of 2022.
 
 ## Skills
 
@@ -23,6 +23,11 @@ Over the years I have accumulated experience in the following languages and plat
 - Flutter
 - Android SDK
 - Windows Powershell
+
+I've also worked with the following cybersecurity tools (non-inclusive):
+
+- Autopsy, EnCase, FTK, Cellebrite Forensics tools
+- Wireshark, Nmap, Ettercap-ng Hacking tools
 
 ## Projects
 
